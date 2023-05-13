@@ -1,0 +1,19 @@
+body
+{
+    background-color: red;
+}
+#Score
+{
+  font-size: x-large;
+  margin-left: 100px;
+}
+#Timer
+{
+    font-size: x-large;
+    float: right;
+    margin-right: 100;
+}
+#Sketch_To_Be_Drawn
+{
+    color: black;
+}
